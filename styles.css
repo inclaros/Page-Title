@@ -1,0 +1,38 @@
+body {
+    text-align:center;
+    background-color: black;
+    background-image: url("https://data.whicdn.com/images/259878206/original.gif");
+   background-color: #cccccc;
+}
+ .Autobiography{ 
+    color: pink;
+    font-family: 'Pattaya' , sans-serif; 
+    font-size: 30px;
+}
+    .MOVIE1 {
+    color: turquoise;
+    font-family: 'Poller One', cursive;
+    font-size: 50px;
+}
+
+   .album {
+    color: orange;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 89px;
+}
+
+.Congrats { 
+    color: turquoise;
+    font-family: 'Poller One' , cursive;
+    font-size: 100px;
+}
+
+    .dog {
+    color: violet;
+    font-family: 'Spicy Rice' , cursive;
+    font-size: 29px;
+}
+
+.trophy {
+    height: 230px; 
+}
